@@ -20,10 +20,10 @@ Project is created with:
 ## Setup
 To run this project, use the live link in the GitHub repo:
 The live link to the project is provided below.
-[https://amimog.github.io/quotes/]
+[https://amimog.github.io/GitTracker/]
 
 ```
-https://amimog.github.io/quotes/
+https://amimog.github.io/GitTracker/
 Then in case of any communication you can send us an email.
 ```
 
