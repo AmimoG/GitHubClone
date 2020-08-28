@@ -1,4 +1,4 @@
-# Delani-Studio Table of contents
+# Git-Tracker Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
